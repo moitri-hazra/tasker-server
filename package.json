@@ -1,0 +1,12 @@
+{
+  "name": "json-server-tasker",
+  "version": "1.0.0",
+  "description": "Server for To-Do app",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
